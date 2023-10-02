@@ -1,5 +1,5 @@
-streamlit==1.14.0  # Replace with the appropriate version of Streamlit
-moviepy==1.1.0  # Replace with the appropriate version of MoviePy
-pandas==1.5.2  # Replace with the appropriate version of Pandas
-azure-cognitiveservices-speech==1.32.0  # Replace with the appropriate version of Azure SDK
-openai==0.28.0  # Replace with the appropriate version of OpenAI Python library
+streamlit  # Replace with the appropriate version of Streamlit
+moviepy  # Replace with the appropriate version of MoviePy
+pandas  # Replace with the appropriate version of Pandas
+azure-cognitiveservices-speech  # Replace with the appropriate version of Azure SDK
+openai  # Replace with the appropriate version of OpenAI Python library
